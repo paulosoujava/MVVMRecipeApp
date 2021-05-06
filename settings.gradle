@@ -1,0 +1,2 @@
+rootProject.name = "MVVMReciveApp"
+include ':app'
